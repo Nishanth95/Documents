@@ -1,0 +1,10 @@
+#TYPE Selected.VMware.VimAutomation.ViCore.Impl.V1.VirtualDevice.FlatHardDiskImpl
+"Filename","CapacityGB"
+"[LUN02] VMware vRealize Appliance-Pramod/VMware vRealize Appliance-Pramod-000003.vmdk","15"
+"[LUN02] VMware vRealize Appliance-Pramod/VMware vRealize Appliance-Pramod_1-000003.vmdk","15"
+"[LUN02] VMware vRealize Appliance-Pramod/VMware vRealize Appliance-Pramod_2-000003.vmdk","25"
+"[LUN02] VMware Identity Appliance-Pramod/VMware Identity Appliance-Pramod-000003.vmdk","5"
+"[LUN02] VMware Identity Appliance-Pramod/VMware Identity Appliance-Pramod_1-000003.vmdk","5"
+"[LUN02] vropstest/vropstest.vmdk","20"
+"[LUN02] vropstest/vropstest_1.vmdk","250"
+"[LUN02] vropstest/vropstest_2.vmdk","4"

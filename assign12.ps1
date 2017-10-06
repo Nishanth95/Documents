@@ -1,3 +1,5 @@
+#------------------------------------Assignment12-----------------------
+#PowerShell function which list number of VM’s per resource pool and list Host, Cluster, Number of VMs and number of templates
 function temp
 {
 

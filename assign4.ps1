@@ -1,12 +1,16 @@
+#------------------------------------------------Assignment4................................................
+#.....Program to display and count the no of Poweredon and poweredoff  VMS in ESXI host............
 function display{
 
-#invoke-expression C:\Users\Administrator\Desktop\nishanth\assign2
+invoke-expression "C:\Users\Administrator\Desktop\nishanth\test"
 
 write-host "powered on vms"
 
  	Get-VM | Where{$_.PowerState -eq "PoweredOn"}
 	
 	Get-VM | Where-Object {$_.PowerState -eq "PoweredOn"} | Measure-Object
+	# Measure-Object-  Calculates the numeric properties of objects, and the characters, words, 
+	and lines in string objects, such as files of text.
 
 	write-host " "
 

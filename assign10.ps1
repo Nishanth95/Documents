@@ -1,7 +1,9 @@
+#--------------------------------------Assignment10----------------
+# PowerShell function which lists the number of VMs on each Datastore and export to CSV file
 function NOOFVMS
 {
 
-#Invoke-expression C:\Users\Administrator\Desktop\nishanth\assign2
+Invoke-expression  "C:\Users\Administrator\Desktop\nishanth\test"
 
 $testArray = [System.Collections.ArrayList]@()
 
